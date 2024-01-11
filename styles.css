@@ -46,7 +46,7 @@ body {
   color: transparent;
   background-position: right;
   background-size: 100% 100%;
-  background-image: linear-gradient(#CCCCFF, #CCCCFF);
+  background-image: linear-gradient(#ff9c9c, #ff9c9c);
 }
 .v3:hover p {
   color: #ffd2d2;
