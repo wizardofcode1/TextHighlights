@@ -56,8 +56,7 @@ body {
   background-position: bottom left;
   background-size: 0% 3px;
   background-image: repeating-linear-gradient(to right, #4834d4 0 3px, transparent 0 6px);
-  padding-bottom: 3px;
-  margin-bottom: 0;
+  /* padding-bottom: 3px;   */
 }
 .v4:hover p {
   background-size: 100% 3px;
