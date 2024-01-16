@@ -75,7 +75,7 @@ body {
 .v6 p {
   background-position: center left;
   background-size: 100% 4px;
-  background-image: linear-gradient(to right, #000, #000);
+  background-image: linear-gradient(to right, rgb(255, 196, 134), rgb(255, 196, 134));
   padding-bottom: 4px;
 }
 .v6:hover p {
